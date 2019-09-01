@@ -1,0 +1,19 @@
+{
+  "appKey": "XRQYM0X8aTfsyFqJ6lRglVwCLG1xSogT",
+  "appSecret": "fyUoJYM35f6et6PMS6xWn0NJY6qDUa1P",
+  "projectId": 61,
+  "id": 110,
+  "name": "lihai-test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "应用描述测试是",
+  "git": {
+    "url": "https://github.com/piter-lee/lihai-test.git",
+    "isPrivate": 0,
+    "username": "piter_lee@163.com",
+    "password": "Dqshanshan0327"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
